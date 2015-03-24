@@ -1,0 +1,19 @@
+{
+  "name": "wstarter-bs",
+  "version": "0.0.0",
+  "authors": [
+    "Vitaly Kravtsov <kr.vital@gmail.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "krvital.pro",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
