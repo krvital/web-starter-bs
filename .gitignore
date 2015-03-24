@@ -1,8 +1,6 @@
 node_modules
 bower_components
 build
-src/markup/*
-src/styles/*
 src/images/*
 .idea
 *.sublime-workspace
